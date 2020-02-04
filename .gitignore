@@ -1,4 +1,4 @@
-# no .a files
+# no .a files in project
 *.a
 # but do track lib.a, even though you're ignoring .a files above
 !lib.a
