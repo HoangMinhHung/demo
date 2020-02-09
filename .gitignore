@@ -15,6 +15,6 @@ demo/newfile
 demo/newfile.txt
 demo/**/newfile
 demo/**/newfile.txt
-
+./newfile
 
 
