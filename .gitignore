@@ -11,5 +11,10 @@ doc/*.txt
 # ignore all .pdf files in the doc/ directory and any of its subdirectories
 doc/**/*.pdf
 demo/newfile
+*/newfile
+demo/newfile.txt
+demo/**/newfile
+demo/**/newfile.txt
+
 
 
