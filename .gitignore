@@ -16,5 +16,7 @@ demo/newfile.txt
 demo/**/newfile
 demo/**/newfile.txt
 ./newfile
+./filedelete.txt
+*.txt
 
 
